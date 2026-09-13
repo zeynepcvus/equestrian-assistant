@@ -1,0 +1,211 @@
+**Ahır Boyutu**
+
+Asgari olarak, ahırlar atın rahatça dönebilmesine, yatıp kalkabilmesine yetecek büyüklükte olmalıdır. Tüm geçiş alanları, atların birbirlerinin yanından güvenli şekilde geçirilmesine olanak sağlayacak genişlikte olmalıdır.
+
+Her at bireyseldir; bu nedenle aşağıdaki minimum ölçülerin üzerinde daha geniş bir ahıra ihtiyaç duyabilir:
+
+- **Büyük atlar (17hh ve üzeri):** 3,65 m x 4,25 m
+
+- **Atlar:** 3,65 m x 3,65 m
+
+- **Büyük poniler (13.2hh ve üzeri):** 3,05 m x 3,65 m
+
+- **Poniler:** 3,05 m x 3,05 m
+
+- **Doğum (taylama) bölmesi (at):** 4,25 m x 4,25 m
+
+Çatı yüksekliğinin yeterli havalandırmayı sağlayacak seviyede olmasını önerilir. At normal duruş pozisyonundayken kulaklarının üzerinde en az 60–90 cm boşluk bulunmalıdır.
+
+**Tasarım**
+
+Amerikan tipi ahırlar, ahşap veya briket (breeze block) yapılar ve barn sistemleri gibi farklı ahır tasarımları mevcuttur. Her tasarım, atların doğal bir ihtiyaç olan sosyal etkileşim düzeylerini farklı şekillerde etkiler.
+
+Atınızın ahırdayken diğer atlarla sosyal etkileşim kurup kuramadığını göz önünde bulundurun. Mevcut ahır düzeninizi, atların güvenli şekilde birbirleriyle etkileşime girmesine veya en azından birbirlerini görebilmesine olanak sağlayacak şekilde düzenleyip düzenleyemeyeceğinizi değerlendirin.
+
+**Zemin**
+
+Ahır zemini mümkün olduğunca düz, kaymaz ve idrarın atın bulunduğu alandan uzaklaştırılmasını sağlayacak şekilde (arka tarafa eğimli veya drenaj kanallı) olmalıdır.
+
+Piyasada, hem atın hem de bakıcının ihtiyaçlarına uygun birçok altlık (yataklık) materyali bulunmaktadır. Altlık veya kauçuk paspaslar, özellikle kapı çevresi dahil olmak üzere tüm zemini kaplamalıdır. Bu, atın uzun süre sert yüzeylerde (örneğin çıplak beton üzerinde) durmasından kaynaklanabilecek eklem ve tendon zorlanmalarını önlemeye yardımcı olur.
+
+**Havalandırma**
+
+Ahırda etkili havalandırma yıl boyunca hayati önem taşır. Temiz havanın dolaşımını sağlar, sıcaklık kontrolüne yardımcı olur ve **at astımı** (eski adıyla RAO) gibi solunum yolu hastalıklarının riskini azaltır.
+
+Havalandırma; ahır kapıları, uygun çatı yüksekliği, havalandırma menfezleri ve pencereler aracılığıyla sağlanabilir.
+
+Örneğin ahırın arka kısmına yerleştirilen pencereler hem doğal ışık hem de hava sirkülasyonu sağlar. Ahır pencerelerinde cam kullanılmamalıdır; kırıldığında ciddi tehlike oluşturur. Bunun yerine pleksi (perspex) veya güvenlik camı tercih edilebilir ve at ile cam arasında metal ızgara bulunması önerilir. Alternatif olarak, küçük açılır kapaklı pencereler kullanılarak atın dışarıyı rahatça görmesi sağlanabilir.
+
+**Ahır Kapıları**
+
+Ahır kapıları dışa doğru açılmalı veya sürgülü olmalı ve güvenli şekilde kilitlenebilmelidir. Tasarıma bağlı olarak kapılar üst ve alt sürgü (kick bolt) ile sabitlenmelidir. Bu, atın kaçmasını veya ayağını kapı ile çerçeve arasına sıkıştırmasını önler.
+
+Kapı genişliği en az 1,25 m olmalıdır. Kapı ve çatı yüksekliği, atın başını kapının üzerinden rahatça çıkararak çevresini görebileceği şekilde olmalıdır. Bu, doğal davranışların sergilenmesine katkı sağlar.
+
+**Aydınlatma**
+
+Ahırda yeterli aydınlatma bulunması, özellikle kış aylarında atın güvenli şekilde bakımı için gereklidir. Tüm aydınlatma tesisatı güvenlik ön planda tutularak kurulmalıdır.
+
+Aydınlatma armatürleri ve anahtarlar koruyucu plastik kapak içinde olmalı ve atların ulaşamayacağı yerlere monte edilmelidir. Kabloların açıkta kalmamasına dikkat edilmelidir.
+
+**Donanım ve Ekipmanlar**
+
+Bağlama halkaları, tuzluklar gibi ekipmanlar minimum sayıda tutulmalı, keskin kenar içermemeli ve özellikle atın yüz ve göz bölgesine zarar vermeyecek şekilde yerleştirilmelidir.
+
+Ahır duvarına yerleştirilen **at güvenli aynalar**, stresi azaltmaya yardımcı olabilir. Ancak ilk kurulumda atın davranışı gözlemlenmelidir; bazı atlar aynadaki yansımayı başka bir at olarak algılayabilir. Cam aynalar yaralanma riski oluşturabileceğinden mutlaka atlar için güvenli üretilmiş ürünler kullanılmalıdır.
+
+**Su Temini**
+
+Sürekli temiz ve taze su sağlanması, susuzluk ve kolik riskini önlemek için hayati öneme sahiptir.
+
+Ahır düzenine bağlı olarak su kovaları veya otomatik suluklar kullanılabilir. Her iki yöntemin de avantaj ve dezavantajları vardır.
+
+**Su Kovaları**
+
+Ekonomik bir seçenektir. Atın ne kadar su tükettiğini gözlemleyebilirsiniz; ancak kovaların taşınması gerekir. Kovalar mümkünse ahırın köşesine yerleştirilmelidir. Sıcak havalarda su uzun süre beklerse ısınabilir ve içilebilirliği azalabilir; bu nedenle daha sık değiştirilmelidir. Soğuk havalarda suya biraz ılık su eklemek donmayı önleyebilir ve içmeyi teşvik edebilir.
+
+**Otomatik Suluklar**
+
+Daha maliyetlidir ve kurulum gerektirir. Tüketilen su miktarı doğrudan takip edilemez; ancak iş yükünü azaltır ve sürekli temiz su sağlar. Soğuk havalarda borular donabilir; bu durumda ek olarak kova kullanılması gerekebilir. Bazı atlar otomatik suluklara alışmakta zorlanabilir; bu süreçte kova da bulundurulmalıdır.
+
+**Saman Ağları (Haynets)**
+
+İdeal olan, kaba yemin (ot, saman vb.) yer seviyesinde ve sınırsız şekilde sunulmasıdır. Ancak kilo kontrolü gereken atlarda bu uygun olmayabilir.
+
+Saman ağı kullanılıyorsa, atın baş hizasında sabitlenmelidir. Ağ boşaldığında aşağı sarkmamalıdır; aksi takdirde toynağın takılma riski oluşabilir.
+
+**Altlık (Yataklık) Seçiminde Dikkat Edilmesi Gereken Faktörler**
+
+Seçilen altlık türü ne olursa olsun, kullanılan materyalin kaliteli olması, yenildiğinde toksik olmaması ve ciltte irritasyona neden olmaması esastır. Piyasada birçok farklı altlık seçeneği bulunmaktadır; bu nedenle atınız için en uygun olanı seçerken her materyalin özelliklerini değerlendirerek bireysel ihtiyaçlara en iyi yanıt vereni tercih etmek önemlidir.
+
+**Kalite**
+
+Toz seviyesi minimumda tutulmalıdır. Atınız (veya siz) solunum problemlerine yatkınsanız, düşük tozlu altlık tercih edilmelidir. Küf sporları içermeyen ve düşük toz oranına sahip yüksek kaliteli altlıklar, solunum yolu hastalıklarının önlenmesine yardımcı olur.
+
+**Verimlilik**
+
+Seçilen altlık, dışkının kolay ve hızlı şekilde temizlenmesine olanak sağlamalı ve idrarı iyi emmelidir. Ahırın yapısı da drenaj ve emilim açısından altlığın verimliliğini etkiler. İdrarı yeterince emmeyen altlıklar, ahırda amonyak seviyesini artırarak atın solunum sağlığını olumsuz etkileyebilir.
+
+**Destek**
+
+Altlık, ayakta dururken toynaklara ve yatarken tüm vücuda yeterli destek sağlamalıdır. Bu, ahır içi yaralanmaların önlenmesine yardımcı olur ve atın kaymadan güvenle yatıp kalkmasını sağlar. Yüksek kenarlı ve kalın altlıklar, atın “cast” durumuna düşmesi halinde (duvara çok yakın pozisyonda yatıp kalkamaması) yaralanma riskini azaltır.
+
+**Davranış**
+
+Seçilen altlık materyali atın davranışını etkileyebilir. Örneğin saman altlık, atın ahırda daha uzun süre yatmasını teşvik edebilir ve doğal yem arama (foraging) davranışını destekler. Ancak kilo kontrolü gereken atlarda, saman tüketiminin artarak ekstra kalori alımına yol açabileceği unutulmamalıdır.
+
+**Depolama**
+
+Dayanıklı ve su geçirmez ambalajlı ürünler genellikle dış mekânda veya korunaklı alanlarda saklanabilir. Saman gibi ambalajsız altlıklar ise küflenmemesi ve tozlanmaması için kuru ve kapalı alanlarda muhafaza edilmelidir. Ayrıca hırsızlık riskine karşı depolama güvenliği de göz önünde bulundurulmalıdır.
+
+**Bulunabilirlik**
+
+Altlık materyallerinin temini; mevsime, hasat verimine ve bölgedeki tedarikçilere bağlı olarak değişebilir. Arzın azaldığı dönemlerde maliyetler artabilir.
+
+**Saman (Straw)**
+
+Saman, yüzyıllardır kullanılan en geleneksel altlık türüdür. Başlıca üç türü vardır: buğday, arpa ve yulaf samanı. Bazı atlar samanı yiyebileceğinden her at için uygun olmayabilir.
+
+**Avantajları**
+
+- Genellikle kolay bulunur (hasat dönemine göre fiyat değişebilir)
+
+- Ekonomiktir
+
+- Kullanımı kolaydır
+
+**Dezavantajları**
+
+- Kalitesi değişken olabilir; yüksek toz ve küf içerebilir
+
+- Koku oluşabilir ve gübre yığını (muckheap) büyük olabilir
+
+- Solunum problemi olan atlar veya altlığını yiyen atlar için uygun değildir
+
+**Buğday Samanı**
+
+En yaygın kullanılan türdür. Sıcak ve konforlu bir yatak sağlar, kolay işlenir ve iyi drenaj sunar. Ancak genellikle en tozlu saman türüdür.
+
+**Arpa Samanı**
+
+Genellikle en ucuz türdür ancak her zaman uygun değildir. İçerdiği başaklar sert ve batıcı olabilir, cilt tahrişine yol açabilir.
+
+**Yulaf Samanı**
+
+Genellikle daha kaliteli ve altın rengindedir. Ancak atlar tarafından daha çok tüketilebilir. Daha emici olduğundan temizliği daha ağır ve zahmetli olabilir.
+
+**İşlenmiş (Treated) Saman Ürünleri**
+
+Doğranmış samanın bazen diğer materyallerle karıştırılmasıyla elde edilir. Bazı ürünlerde esansiyel yağlar bulunabilir. Kalitesi daha tutarlıdır. Ambalajlı olduğu için depolaması kolaydır ancak maliyeti daha yüksek olabilir.
+
+**Ahşap Talaşı (Wood Shavings)**
+
+Uzun yıllardır popüler bir altlık türüdür. Özellikle solunum problemi olan veya altlığını yiyen atlar için tercih edilir.
+
+Toz oranı kaliteye göre değişir. Tozu alınmış (dust-extracted) talaşlar en kaliteli ve en çok tercih edilenlerdir. Düşük kaliteli talaşlar (örneğin kereste atıkları) keskin parçalar içerebilir ve tehlikelidir. Büyük parçalı talaşlar genellikle daha düşük toz içerir.
+
+Toynaklara iyi destek sağlar ve genellikle plastik ambalajlı balyalar halinde satılır, bu da depolamayı kolaylaştırır.
+
+**Parçalanmış Ahşap Lifi (Shredded Wood Fibre)**
+
+Geri dönüştürülmüş beyaz ağaçtan üretilir ve çevre dostu altlıklar arasında yer alır. Düşük tozludur ve yüksek emiciliğe sahiptir, bu da yüzeyin kuru kalmasına yardımcı olur.
+
+Dağılma olasılığı düşüktür, bu nedenle atın yatıp kalkarken yaralanma riski azalır. Kalitesi genellikle sabittir, yaygın olarak bulunur ve az atık oluşturur.
+
+**Keten ve Kenevir (Flax & Hemp)**
+
+Bitki saplarının doğranmasıyla elde edilir. Son yıllarda popülerliği artmıştır ve düşük toz içerir.
+
+Genellikle daha pahalıdır. Nadiren de olsa atlar tarafından tüketilebilir; sindirimi zor olduğundan dikkat edilmelidir. Dayanıklı ambalajlarda satılır ve kolay depolanır.
+
+**Kâğıt (Paper)**
+
+Genellikle gazete ve dergi gibi materyallerin parçalanmasıyla elde edilir. Düşük tozludur ve genellikle yenmez.
+
+Ancak uzun parçalar temizlik sırasında zor ayrılır. Islandığında çok yumuşar ve kullanımı zorlaşır. Açık renkli atlarda mürekkep lekesi bırakabilir. Ekonomiktir ancak kalın bir yatak oluşturmak için fazla miktarda gerekebilir.
+
+**Karton (Cardboard)**
+
+Parçalanmış kartondan oluşur ve düşük tozludur. Ancak ahır içinde kolay dağılabilir.
+
+Islandığında topaklanır ve temizliği kolaylaşır; fakat dışkıdan ayrılması zor olabilir ve israfa yol açabilir.
+
+**Kauçuk Zemin (Rubber Matting)**
+
+Ahırlarda altlık yerine veya altlıkla birlikte kullanılan yaygın bir alternatiftir. İlk maliyeti yüksek olsa da uzun vadeli bir yatırımdır.
+
+Toynak ve eklemler için mükemmel destek sağlar, kaymayı azaltır ve beton zemini kaplayarak yaralanma riskini düşürür. Modüler paspaslar veya dökme (tek parça) zemin şeklinde olabilir.
+
+Üzerine mutlaka altlık serilmesi önerilir; çünkü idrar emilimini sağlar ve hijyeni artırır. Sadece kauçuk zemin kullanımı önerilmez.
+
+Hijyen çok önemlidir: paspaslar düzenli olarak kaldırılıp altı temizlenmelidir. Özellikle yaz aylarında bu işlem daha sık yapılmalıdır.
+
+Genel olarak yönetimi kolaydır ve altlık kullanımını azaltarak iş yükünü düşürür.
+
+**Ahır Temizliği (Mucking Out)**
+
+Ahırın düzenli olarak temizlenmesi ve genel hijyeninin sağlanması, atın sağlığı ve refahının sürdürülebilmesi açısından temel bir gerekliliktir.
+
+Farklı ahır temizliği sistemleri bulunmaktadır ve her birinin kendine özgü avantajları ve dezavantajları vardır:
+
+**Tam Temizlik (Full Muck-Out)**
+
+Ahırın her gün tamamen temizlenmesi şiddetle tavsiye edilir. Bu yöntemle tüm taze dışkı ve idrar tamamen uzaklaştırılır. Tam temizlik daha fazla zaman alabilir ancak atın sağlığı için en ideal ortamı sağlar. Altlık kenarlarının (bankların) düzenli olarak yer değiştirilmesi, küf oluşumunu ve toz birikimini önlemek açısından önemlidir.
+
+**Kısmi Temizlik (Part Muck-Out)**
+
+Zamanın kısıtlı olduğu durumlarda tercih edilir. Örneğin hafta içi sadece dışkılar günlük olarak temizlenir, hafta sonu ise ahır tamamen boşaltılarak temizlenir. Bu sistemde hafta boyunca ihtiyaç duyuldukça ek altlık ilavesi yapılması önemlidir.
+
+**Derin Altlık Sistemi (Deep Litter)**
+
+Genellikle çok sayıda at bulunan işletmelerde kullanılır. Dışkılar alınır ve üzerine yeni altlık eklenir. Altlığın aşırı derinleşmemesine dikkat edilmeli ve belirli aralıklarla ahır tamamen boşaltılarak detaylı temizlik yapılmalıdır.
+
+Bu yöntem zaman ve maliyet açısından ekonomik olsa da atın solunum sağlığı açısından en az uygun sistemdir ve başka sağlık sorunlarına da yol açabilir.
+
+İdrar ve dışkının ayrışması sonucu ahırda amonyak birikimi oluşabilir. Bu durum solunum yolu problemlerine neden olabilir ve iyi ahır yönetiminin önemini ortaya koyar. Derin altlık sisteminde tutulan atlar, günlük tamamen temizlenen ahırlardaki atlara kıyasla daha yüksek amonyak seviyelerine maruz kalır.
+
+**Toynak Bakımı**
+
+Ahırda tutulan atların toynakları her gün temizlenmelidir; ideal olarak günde iki kez kontrol edilmesi iyi bir uygulamadır.
+
+Kuru ve temiz altlık kullanımı, toynakta oluşabilecek **çürük (thrush)** riskini azaltmaya yardımcı olur.
